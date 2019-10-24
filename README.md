@@ -1,2 +1,2 @@
 # Python-beginner
-Basic python programs
+Contains basic codes in python3
